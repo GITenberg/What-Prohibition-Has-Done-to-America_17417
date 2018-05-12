@@ -1,0 +1,27 @@
+_repo: What-Prohibition-Has-Done-to-America_17417
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franklin, Fabian
+    birthdate: 1853
+    deathdate: 1939
+    gutenberg_agent_id: '7364'
+    url: http://www.gutenberg.org/2009/agents/7364
+description: ''
+gutenberg_issued: '2005-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prohibition -- United States'
+- !lcc 'HV'
+- !lcsh 'United States. Constitution. 18th amendment'
+title: What Prohibition Has Done to America
+url: http://www.gutenberg.org/ebooks/17417
